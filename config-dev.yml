@@ -1,2 +1,4 @@
 server:
   port: 8888
+config:
+  info: test123456789456123789
